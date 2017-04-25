@@ -1,0 +1,12 @@
+<html>
+<head>
+<title>background images</title></head>
+<body>
+<a href="http://www.google.com"><img src="/home/Desktop/pictures/domus-01-google.jpg" width="25%"></a><br>
+    <a href="http://www.fb.com"><img src="/home/Desktop/pictures/facebook.jpeg" width="25%"></a><br>
+    <a href="http:www.microsoft.com"><img src="/home/Desktop/pictures/microsoft.png"width="25%"></a><br>
+    <a href="http:www.twitter.com"><img src="/home/Desktop/pictures/twitter.png"width="25%"></a><br>
+
+
+</body>
+</html>
